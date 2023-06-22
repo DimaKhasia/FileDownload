@@ -1,0 +1,13 @@
+{
+  "laptop" : "Acer",
+  "os": "windows 10",
+  "ssd" :
+  [
+    "512 gb",
+    "1 tb"
+  ],
+  "ram" : {
+    "grey" : "16 gb",
+    "blue" : "8 gb"
+  }
+}
