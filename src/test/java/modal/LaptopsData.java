@@ -1,4 +1,4 @@
-package jsontest;
+package modal;
 
 import java.util.List;
 

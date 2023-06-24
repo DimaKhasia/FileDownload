@@ -1,7 +1,7 @@
 package parseFiles;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import jsontest.LaptopsData;
+import modal.LaptopsData;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
